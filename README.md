@@ -1,2 +1,2 @@
 # template
-One page website
+One page website template
